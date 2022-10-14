@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// bin search function also exist in c++ stl
 int binary_search(int a[], int l, int r, int key)
 {
 	while (l <= r)
